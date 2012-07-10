@@ -1,0 +1,1 @@
+This repository is a collection of useful Magento stuff (i.e. JSON Category Exporter) and examples/skels on how-to do other stuff (i.e. Event/Observer).
